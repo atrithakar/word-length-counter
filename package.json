@@ -1,0 +1,27 @@
+{
+  "name": "word-length-counter",
+  "version": "1.0.0",
+  "description": "This is a package that counts length of word given to it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrithakar/word-length-counter.git"
+  },
+  "keywords": [
+    "word",
+    "length",
+    "counter",
+    "atri",
+    "thakar",
+    "thaker"
+  ],
+  "author": "Atri Thakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrithakar/word-length-counter/issues"
+  },
+  "homepage": "https://github.com/atrithakar/word-length-counter#readme"
+}
